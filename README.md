@@ -1,4 +1,4 @@
-# Movie Recommender Project Readme
+# Movie Recommender 
 
 This movie recommender project is a simple content-based recommendation system that suggests movies similar to a user-specified movie. It leverages natural language processing techniques to analyze movie features like genres, keywords, taglines, cast, and directors to find similarity scores between movies and provide recommendations based on those scores.
 
